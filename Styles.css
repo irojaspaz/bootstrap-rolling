@@ -1,0 +1,67 @@
+:root {
+  box-sizing: border-box;
+  padding: 0;
+  border: 0;
+}
+
+.logo-img {
+  height: 5rem;
+}
+
+.main-container {
+  margin-top: 14vh;
+}
+
+.titulo-slider {
+  font-family: var(--font-family-secundaria);
+  font-size: var(--font-size-titulos);
+  text-shadow: 2px 2px 5px #000000;
+}
+
+.subtitulo-slider {
+  font-family: var(--font-family-primaria);
+  font-size: var(--font-size-subtitulos);
+  text-shadow: 2px 2px 5px #000000;
+}
+
+.titulos-secciones {
+  font-family: var(--font-family-secundaria);
+  font-size: var(--font-size-titulos);
+}
+
+.card-tittle {
+  font-family: var(--font-family-secundaria);
+  font-size: var(--font-size-subtitulos);
+}
+
+.card-text {
+  font-family: var(--font-family-primaria);
+  font-size: var(--font-size-texto);
+}
+
+.accordion-header {
+  font-family: var(--font-family-secundaria);
+  font-size: var(--font-size-titulos);
+}
+
+.accordion-body {
+  font-family: var(--font-family-primaria);
+  font-size: var(--font-size-texto);
+}
+.container-formulario {
+  font-family: var(--font-family-primaria);
+  font-size: var(--font-size-texto);
+}
+
+.footer-bottom {
+  font-family: var(--font-family-primaria);
+  font-size: var(--font-size-texto);
+}
+
+button {
+  font-family: var(--font-family-secundaria);
+}
+
+.img-footer {
+  height: 1.5rem;
+}

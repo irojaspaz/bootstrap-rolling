@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@800&display=swap");
+
+:root {
+  --font-size-titulos: 3rem;
+  --font-size-subtitulos: 2rem;
+  --font-size-texto: 1rem;
+  --font-family-primaria: "Montserrat", sans-serif;
+  --font-family-secundaria: "Open Sans", sans-serif;
+  --background-color1: #b88b4a;
+  --background-color2: #533e2d;
+  --background-color3: #242331;
+}
